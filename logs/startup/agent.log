@@ -1,0 +1,20 @@
+2017-11-10 08:34:05,030: 510    [           main] INFO  spectit.agent.java.SpringAgent - Initializing Spring on inspectIT Agent...
+2017-11-10 08:34:07,281: 2761   [           main] INFO  nfig.impl.ConfigurationStorage - Using agent version 1.8.5.101.
+2017-11-10 08:34:07,281: 2761   [           main] INFO  nfig.impl.ConfigurationStorage - Repository information found in the JVM parameters: IP=localhost Port=9070
+2017-11-10 08:34:07,282: 2762   [           main] INFO  nfig.impl.ConfigurationStorage - Repository definition added. Host: localhost Port: 9070
+2017-11-10 08:34:07,282: 2762   [           main] INFO  nfig.impl.ConfigurationStorage - Agent name found in the JVM parameters: AgentName=caplab-srv
+2017-11-10 08:49:57,795: 421    [           main] INFO  spectit.agent.java.SpringAgent - Initializing Spring on inspectIT Agent...
+2017-11-10 08:49:59,759: 2385   [           main] INFO  nfig.impl.ConfigurationStorage - Using agent version 1.8.5.101.
+2017-11-10 08:49:59,759: 2385   [           main] INFO  nfig.impl.ConfigurationStorage - Repository information found in the JVM parameters: IP=localhost Port=9070
+2017-11-10 08:49:59,760: 2386   [           main] INFO  nfig.impl.ConfigurationStorage - Repository definition added. Host: localhost Port: 9070
+2017-11-10 08:49:59,760: 2386   [           main] INFO  nfig.impl.ConfigurationStorage - Agent name found in the JVM parameters: AgentName=caplab-srv
+2017-11-10 09:02:45,054: 325    [           main] INFO  spectit.agent.java.SpringAgent - Initializing Spring on inspectIT Agent...
+2017-11-10 09:02:46,938: 2209   [           main] INFO  nfig.impl.ConfigurationStorage - Using agent version 1.8.5.101.
+2017-11-10 09:02:46,938: 2209   [           main] INFO  nfig.impl.ConfigurationStorage - Repository information found in the JVM parameters: IP=localhost Port=9070
+2017-11-10 09:02:46,938: 2209   [           main] INFO  nfig.impl.ConfigurationStorage - Repository definition added. Host: localhost Port: 9070
+2017-11-10 09:02:46,939: 2210   [           main] INFO  nfig.impl.ConfigurationStorage - Agent name found in the JVM parameters: AgentName=caplab-srv
+2017-11-10 09:06:55,136: 180    [           main] INFO  spectit.agent.java.SpringAgent - Initializing Spring on inspectIT Agent...
+2017-11-10 09:06:56,042: 1086   [           main] INFO  nfig.impl.ConfigurationStorage - Using agent version 1.8.5.101.
+2017-11-10 09:06:56,043: 1087   [           main] INFO  nfig.impl.ConfigurationStorage - Repository information found in the JVM parameters: IP=localhost Port=9070
+2017-11-10 09:06:56,043: 1087   [           main] INFO  nfig.impl.ConfigurationStorage - Repository definition added. Host: localhost Port: 9070
+2017-11-10 09:06:56,043: 1087   [           main] INFO  nfig.impl.ConfigurationStorage - Agent name found in the JVM parameters: AgentName=caplab-srv
